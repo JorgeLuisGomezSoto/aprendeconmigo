@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">aprendeconmigo</string>
+    <string name="todo">TODO</string>
+    <string name="aprende_conmigo">Aprende Conmigo</string>
+    <string name="quienes_somos">QUIENES SOMOS</string>
+    <string name="aprende_las_vocales">APRENDE LAS VOCALES</string>
+    <string name="jardines_en_tu_ciudad">JARDINES EN TU CIUDAD</string>
+    <string name="block_de_tareas">BLOCK DE TAREAS</string>
+    <string name="soporte">SOPORTE</string>
+    <string name="salir">SALIR</string>
+    <string name="somos_un_grupo_con_fines_de_estudio_que_busca_facilitar_la_educaci_n_de_los_elementos_b_sicos_del_habla">Somos un grupo con fines de estudio que busca facilitar la educación de los elementos básicos del habla.</string>
+    <string name="quienes_somo">¿Quienes Somos?</string>
+    <string name="si_tiene_problemas_con_la_app_enviar_problematica_detallado_al_siguiente_correo_electronico">Si tiene problemas con la app enviar problematica detallado al siguiente correo electronico:</string>
+    <string name="jorgeluisgomezsoto_gmail_com">jorgeluisgomezsoto@gmail.com</string>
+    <string name="title_activity_googlemaps">googlemaps</string>
+    <string name="clasificar_actividad">Clasificar Actividad:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="agregar">Agregar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="edit_done">Edit Done</string>
+    <string name="edit_don">Edit Done</string>
+</resources>

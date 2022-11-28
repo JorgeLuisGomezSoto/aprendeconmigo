@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "603182933575",
+    "project_id": "aprendeconmigo",
+    "storage_bucket": "aprendeconmigo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603182933575:android:ad5e95367cde81743eb362",
+        "android_client_info": {
+          "package_name": "cl.jorgeluisgomezsoto.aprendeconmigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603182933575-m3645fh7k98ruuks2bgl2q7i3pg8ebc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.jorgeluisgomezsoto.aprendeconmigo",
+            "certificate_hash": "ccfc226a2042fbf1d98fa1cb06b58a09e5bb6e59"
+          }
+        },
+        {
+          "client_id": "603182933575-m94qmgcf95hmdture2odi829tmfbkiih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDe3c62EktxZpm64sGpxwK-HSfkdLsLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603182933575-m94qmgcf95hmdture2odi829tmfbkiih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
